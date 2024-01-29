@@ -1,0 +1,11 @@
+According to the article, I need to import an image, and then
+transform it to a greyscale (the project from Week 1). 
+
+1.- Import the libraries I've been using: Numpy, Matplotlib, and Pillow.
+2.- Establish with Numpy what method of Kernel I want to use (the matrix).
+3.- Use the code from greyscale from Hannibal, and adapt it to Tutter.
+4.- 'Copy' with a function the image from Tutter to make sure that the 
+     original data from that image is not modified when I do the convolution.
+5.- Formulate a loop that iterates on every pixel from the copy of the 
+     image, buuut excluding the first and last rows.
+6.- Modify the matrixes according to the kernel technique to use.
